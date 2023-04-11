@@ -1,0 +1,1 @@
+Entities é uma pasta padrão para projetos, que guarda as estruturas fundamentais da aplicação
