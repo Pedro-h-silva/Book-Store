@@ -50,7 +50,7 @@ app.createBook(
 
 const books = app.getBooks();
 
-app.createUser("Isaac", "isaac@email.com", "123456");
+app.createUser("Pedro", "Pedro@email.com", "123456");
 
 const users = app.getUsers();
 
